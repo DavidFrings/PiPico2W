@@ -1,13 +1,8 @@
-<!-- template:start -->
-> **Dieses Repo ist eine Vorlage.** Anleitung: [TEMPLATE.md](TEMPLATE.md).
-> Nach `./scripts/init.sh` verschwindet dieser Hinweis.
-<!-- template:end -->
+# pi-pico-2-w
 
-# __PROJECT_NAME__
+[![CI](https://github.com/DavidFrings/pi-pico-2-w/actions/workflows/ci.yml/badge.svg)](https://github.com/DavidFrings/pi-pico-2-w/actions/workflows/ci.yml)
 
-[![CI](https://github.com/__GITHUB_OWNER__/__PROJECT_NAME__/actions/workflows/ci.yml/badge.svg)](https://github.com/__GITHUB_OWNER__/__PROJECT_NAME__/actions/workflows/ci.yml)
 
-__DESCRIPTION__
 
 ## Verwendung
 

@@ -1,12 +1,12 @@
 [package]
-name = "__PROJECT_NAME__"
+name = "pi-pico-2-w"
 version = "0.1.0"
 edition = "2024"
 # Muss zu "msrv" in .github/workflows/ci.yml passen
 rust-version = "1.85"
-description = "__DESCRIPTION__"
+description = ""
 license = "MIT"
-repository = "https://github.com/__GITHUB_OWNER__/__PROJECT_NAME__"
+repository = "https://github.com/DavidFrings/pi-pico-2-w"
 readme = "README.md"
 # Verhindert versehentliches `cargo publish`. Für veröffentlichte Crates entfernen.
 publish = false

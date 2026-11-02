@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "__PROJECT_NAME__"
+name = "pi-pico-2-w"
 version = "0.1.0"
